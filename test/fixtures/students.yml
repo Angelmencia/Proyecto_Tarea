@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: MyString
+  nombre: MyString
+  curso: MyString
+  nota: 1
+  fecha: 2015-06-14
+
+two:
+  id: MyString
+  nombre: MyString
+  curso: MyString
+  nota: 1
+  fecha: 2015-06-14
